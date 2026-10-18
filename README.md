@@ -1,40 +1,388 @@
-## 👋 Hi, I'm Vaibhav!
+<div align="center">
 
-🎓 I'm a Computer Science and Engineering student from Delhi, currently studying at "Dr.A.P.J Abdul Kalam University".  
-💻 Passionate about **AI/ML**, **Data Structures and Algorithms**, and slowly exploring **MLOps**.  
-⚽ I'm also a huge football lover  — I play as a central midfielder (No.8) and love breaking down football tactics and matches.  
-🎶 Outside tech, I’m deeply into music — I sing, play drums .  
-🔥 Currently focused on improving my DSA skills, working on projects, and building a strong tech portfolio.  
+```text
+██╗   ██╗ █████╗ ██╗██████╗ ██╗  ██╗ █████╗ ██╗   ██╗    
+██║   ██║██╔══██╗██║██╔══██╗██║  ██║██╔══██╗██║   ██║    
+██║   ██║███████║██║██████╔╝███████║███████║██║   ██║    
+╚██╗ ██╔╝██╔══██║██║██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝    
+ ╚████╔╝ ██║  ██║██║██████╔╝██║  ██║██║  ██║ ╚████╔╝     
+  ╚═══╝  ╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝      
+                                                         
+                  S I S O D I A
+```
+
+### `software_developer.exe`
+
+**JAVA Developer · Backend Engineer · Problem Solver**
+
+<br/>
+
+`BUILDING SYSTEMS • SOLVING PROBLEMS • LEARNING CONSTANTLY`
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://backend-portfolio-rho-ten.vercel.app/
+
+)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/vaibhav-v-705280320)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-0A0A0A?style=for-the-badge\&logo=leetcode\&logoColor=FFA116)](https://leetcode.com/u/mlwithvaibhav/)
+
+</div>
 
 ---
 
+```bash
+$ whoami
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isthatvaibhavv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-sharma-705280320) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thevaibhavsharma17@gmail.com) 
+```text
+Vaibhav Sisodia
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot) [![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security) [![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white)](https://oauth.net/2/) [![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white)](https://restfulapi.net/) [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+Software Developer building reliable backend systems and modern web apps.
+Core stack: Java • Spring Boot • Next.js • PostgreSQL.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MLwithvaibhav&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com?user=MLwithvaibhav&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MLwithvaibhav&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+Focused on writing clean code, solving algorithmic challenges, and 
+engineering systems built to scale.
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MLwithvaibhav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```bash
+$ cat ./identity.json
+```
+
+```json
+{
+  "name": "Vaibhav Sisodia",
+  "role": [
+    "Backend Engineer",
+    "Systems Builder",
+    "Java Developer"
+  ],
+  "interests": [
+    "High-Performance APIs",
+    "Microservices Architecture",
+    "Relational Databases",
+    "Data Structures & Algorithms"
+  ],
+  "mindset": "Code simply, design for scale, optimize when measured."
+}
+```
+
+---
+
+```bash
+$ ./tech-stack
+```
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### `LANGUAGES`
+
+```text
+Java (Core & OOP)
+SQL
+Bash / Shell
+C
+Python
+```
+
+</td>
+
+<td valign="top" width="33%">
+
+### `FRONTEND`
+
+```text
+Next.js
+HTML
+CSS
+```
+
+</td>
+
+<td valign="top" width="33%">
+
+### `BACKEND`
+
+```text
+Spring Boot
+Spring MVC
+RESTful APIs
+JWT & Security
+Microservices
+FLASK
+```
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### `DATABASES`
+
+```text
+MySQL
+PostgreSQL
+Database Indexing
+```
+
+</td>
+
+<td valign="top">
+
+### `INFRASTRUCTURE`
+
+```text
+Docker
+Linux
+Git
+GitHub
+```
+
+</td>
+
+<td valign="top">
+
+### `TOOLS`
+
+```text
+IntelliJ IDEA
+Maven
+VS Code
+Postman
+NPM
+Vite
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+```bash
+$ ls ./projects
+```
+
+### `01` — HEALTHCARE AI
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  HEALTH AI ASSISTANT                                        │
+│                                                             │
+│  AI-powered healthcare platform & vitals analytics tracker  │
+│                                                             │
+│  Full-stack medical assistant with Google Gemini AI symptom │
+│  analysis, session auth, and real-time Chart.js telemetry.  │
+│                                                             │
+│  Python • Flask • Gemini API • SQLAlchemy • SQLite • Charts │
+│                                                             │
+│  [ VIEW PROJECT → ]                                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### `02` — VC-SCOUT
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  VC SCOUT                                                   │
+│                                                             │
+│  Startup discovery & venture opportunity analysis platform  │
+│                                                             │
+│  Scans GitHub signals and market feeds to evaluate startup  │
+│  traction, risk, and unicorn potential using Google Gemini. │
+│                                                             │
+│  Next.js • Flask • Gemini API • GitHub API • Tailwind CSS   │
+│                                                             │
+│  [ VIEW PROJECT → ]                                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### `03` — PHARMLEDGER
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  PHARMLEDGER                                                │
+│                                                             │
+│  Healthcare supply chain verification system                │
+│                                                             │
+│  Secures pharmaceutical distribution, tracks batch          │
+│  provenance, and prevents counterfeit drugs.                │
+│                                                             │
+│  Java • Spring Boot • REST APIs • Security • MySQL          │
+│                                                             │
+│  [ VIEW PROJECT → ]                                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### `04` — MULTI-THREADED HTTP SERVER
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  MULTI-THREADED HTTP SERVER                                 │
+│                                                             │
+│  Lightweight concurrent HTTP server built from scratch      │
+│                                                             │
+│  Custom TCP socket architecture supporting multi-threaded   │
+│  request handling, bench-tested on 60k requests via JMeter. │
+│                                                             │
+│  Java • Socket Programming • Multithreading • TCP • JMeter  │
+│                                                             │
+│  [ VIEW PROJECT → ]                                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### `05` — E-COMMERCE PLATFORM (BASIC)
+
+```text
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  FULL-STACK E-COMMERCE APPLICATION                          │
+│                                                             │
+│  End-to-end retail application with dynamic inventory CRUD  │
+│                                                             │
+│  REST API backend with multipart image handling, category   │
+│  search indexing, and integrated React cart workflow.       │
+│                                                             │
+│  Java 25 • Spring Boot • Spring Data JPA • React • Maven    │
+│                                                             │
+│  [ VIEW PROJECT → ]                                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+```
+
+---
+
+```bash
+$ ./problem-solving
+```
+
+<div align="center">
+
+### `DATA STRUCTURES & ALGORITHMS`
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/sahumohit1494?theme=dark&font=baloo&ext=heatmap" width="85%"/>
+
+<br/><br/>
+
+`Arrays` · `Strings` · `Hashing` · `Two Pointers` · `Stack` · `Queue`
+
+`Binary Search` · `Trees` · `Recursion` · `Dynamic Programming` · `Graphs`
+
+</div>
+
+---
+
+```bash
+$ ./github
+```
 
 
+<div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
 
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MLwithvaibhav&theme=github_dark" 
+  width="100%" 
+/>
 
+</td>
 
+<td width="50%" align="center">
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MLwithvaibhav&theme=github_dark" 
+  width="100%" 
+/>
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=MLwithvaibhav&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+</div>
+
+---
+
+```bash
+$ git log --oneline --decorate
+```
+
+```text
+building scalable applications
+learning system design
+solving algorithmic problems
+exploring backend architecture
+```
+
+---
+
+```bash
+$ cat ./currently_learning.md
+```
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  > Advanced DSA                              │
+│  > Backend Architecture                      │
+│  > System Design                             │
+│  > Distributed Systems                       │
+│  > Database Optimization                     │
+│  > Caching & Scalability                     │
+│  > Devops and MLops                           │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+```text
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║       "Don't just write code.                     ║
+║        Understand the system behind it."          ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
+### `BUILD → BREAK → DEBUG → LEARN → REBUILD`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLwithvaibhav)
+<br/><br/>
+
+`Thanks for visiting my profile.`
+
+**—Vaibhav Sisodia**
+
+</div>
