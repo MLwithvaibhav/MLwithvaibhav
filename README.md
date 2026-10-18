@@ -186,6 +186,9 @@ $ ls ./projects
 └─────────────────────────────────────────────────────────────┘
 ```
 
+[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLwithvaibhav/Healthcare-AI)
+
+
 ### `02` — VC-SCOUT
 
 ```text
@@ -204,6 +207,9 @@ $ ls ./projects
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
+
+[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLwithvaibhav/VC-Scout)
+
 
 ### `03` — PHARMLEDGER
 
@@ -224,6 +230,9 @@ $ ls ./projects
 └─────────────────────────────────────────────────────────────┘
 ```
 
+[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLwithvaibhav)
+
+
 ### `04` — MULTI-THREADED HTTP SERVER
 
 ```text
@@ -243,7 +252,8 @@ $ ls ./projects
 └─────────────────────────────────────────────────────────────┘
 ```
 
----
+[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLwithvaibhav/WEB-SERVER-JAVA-)
+
 
 ### `05` — E-COMMERCE PLATFORM (BASIC)
 
@@ -266,6 +276,9 @@ $ ls ./projects
 ```
 
 ---
+
+[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLwithvaibhav/Ecom-project)
+
 ```
 
 ---
