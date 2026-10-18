@@ -275,9 +275,11 @@ $ ls ./projects
 └─────────────────────────────────────────────────────────────┘
 ```
 
+[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLwithvaibhav/Ecom-project)
+
 ---
 
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLwithvaibhav/Ecom-project)
+
 
 ```
 
