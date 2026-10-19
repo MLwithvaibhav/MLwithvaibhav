@@ -344,36 +344,6 @@ $ ./github
 
 ---
 
-```bash
-$ git log --oneline --decorate
-```
-
-```text
-building scalable applications
-learning system design
-solving algorithmic problems
-exploring backend architecture
-```
-
----
-
-```bash
-$ cat ./currently_learning.md
-```
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  > Advanced DSA                              │
-│  > Backend Architecture                      │
-│  > System Design                             │
-│  > Distributed Systems                       │
-│  > Database Optimization                     │
-│  > Caching & Scalability                     │
-│  > Devops and MLops                           │
-│                                              │
-└──────────────────────────────────────────────┘
-```
 
 ---
 
