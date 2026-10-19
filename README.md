@@ -345,15 +345,13 @@ $ ./github
 ---
 
 
----
-
 <div align="center">
 
 ```text
 ╔════════════════════════════════════════════════════╗
 ║                                                    ║
-║       "Don't just write code.                     ║
-║        Understand the system behind it."          ║
+║       "Don't just write code.                      ║
+║        Understand the system behind it."           ║
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
 ```
