@@ -211,29 +211,9 @@ $ ls ./projects
 [![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLwithvaibhav/VC-Scout)
 
 
-### `03` — PHARMLEDGER
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  PHARMLEDGER                                                │
-│                                                             │
-│  Healthcare supply chain verification system                │
-│                                                             │
-│  Secures pharmaceutical distribution, tracks batch          │
-│  provenance, and prevents counterfeit drugs.                │
-│                                                             │
-│  Java • Spring Boot • REST APIs • Security • MySQL          │
-│                                                             │
-│  [ VIEW PROJECT → ]                                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLwithvaibhav)
 
 
-### `04` — MULTI-THREADED HTTP SERVER
+### `03` — MULTI-THREADED HTTP SERVER
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
@@ -254,30 +234,6 @@ $ ls ./projects
 
 [![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLwithvaibhav/WEB-SERVER-JAVA-)
 
-
-### `05` — E-COMMERCE PLATFORM (BASIC)
-
-```text
-
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  FULL-STACK E-COMMERCE APPLICATION                          │
-│                                                             │
-│  End-to-end retail application with dynamic inventory CRUD  │
-│                                                             │
-│  REST API backend with multipart image handling, category   │
-│  search indexing, and integrated React cart workflow.       │
-│                                                             │
-│  Java 25 • Spring Boot • Spring Data JPA • React • Maven    │
-│                                                             │
-│  [ VIEW PROJECT → ]                                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MLwithvaibhav/Ecom-project)
-
----
 
 
 
